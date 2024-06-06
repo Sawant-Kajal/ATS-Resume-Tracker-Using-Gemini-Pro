@@ -50,7 +50,7 @@ streamlit run app.py
 ![Screenshot 2024-04-21 180611](https://github.com/abhisheklahase29/ATS-Resume-Tracking-LLM-Project/assets/102788394/35ff46ec-74b5-47d8-9890-75ab30222cec)
 
 ## Usage
-Access the application by navigating to http://localhost:8501 in your web browser.
+Access the application by navigating to  http://localhost:8501 in your web browser.
 Upload resumes to the system for automated scoring.
 View scoring results.
 Analyze candidates performance using Power BI visualizations.
