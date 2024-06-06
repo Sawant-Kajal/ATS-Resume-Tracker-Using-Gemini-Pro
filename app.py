@@ -45,7 +45,7 @@ ATS score is low give appropriate decision about Can apply also dont forget to g
 con = c.connect(
     host="localhost",
     user="root",
-    password="MySQL@29",
+    password="Kajal@123",
     database="ATS_resume"
 )
 ## streamlit app
