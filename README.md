@@ -5,7 +5,7 @@
 This project presents an Applicant Tracking System (ATS) Resume Score Checker, leveraging Python, Gemini Language Model (LLM), MySQL, Streamlit, Py2PDF, and Power BI. The system aims to streamline the recruitment process by automating the initial resume screening phase, ensuring efficiency, and reducing bias.
 
 
-![Screenshot 2024-04-21 180736](https://github.com/abhisheklahase29/ATS-Resume-Tracking-LLM-Project/assets/102788394/03b50652-d040-488e-af2a-a035bb1a1180)
+![ATS App View](https://github.com/Sawant-Kajal/Resume-Tracker-Using-Gemini-Pro/assets/148815403/691f6605-e74d-4dac-bb7b-758322ac6f99)
 
 ## Features
 
