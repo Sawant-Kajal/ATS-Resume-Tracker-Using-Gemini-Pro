@@ -1,9 +1,24 @@
 div.appview-container.st-emotion-cache-1wrcr25.ea3mdgi9{
     background-color: #1A1C21;
 }
+
 header.st-emotion-cache-18ni7ap.ezrtsby2{
     background-color: #E1FF01;
 }
-div.row-widget.stTextInput.st-emotion-cache-5u018y.e11y4ecf0{
+div.row-widget.stTextInput.st-emotion-cache-5u018y.e11y4ecf0 {
     background-color: #1A1C21;
 }
+
+div[data-testid="stToolbar"] {
+    background-color: #e0481676;
+    color: #f6fdff;
+    border-radius: 100px;
+    padding: 10px;
+}
+
+div[data-testid="stApp"] {
+    border: 2.6px solid transparent;
+    border-image: linear-gradient(to right, #ff4b4b, #ffa143, #ffff41, #42ff42, #3030ff, #ac38ff, #a02dff) 1;
+    border-image-slice: 1;
+    animation: rainbowBorder 10s ease infinite;
+  }
