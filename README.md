@@ -47,7 +47,7 @@ streamlit run app.py
 
 5.ScreenShot of Power BI Dashboard
 
-![Screenshot 2024-04-21 180611](https://github.com/abhisheklahase29/ATS-Resume-Tracking-LLM-Project/assets/102788394/35ff46ec-74b5-47d8-9890-75ab30222cec)
+![ATS PBI Report](https://github.com/Sawant-Kajal/Resume-Tracker-Using-Gemini-Pro/assets/148815403/257c8943-7f9b-4f75-8e03-5c22e2d97e7f)
 
 ## Usage
 Access the application by navigating to  http://localhost:8501 in your web browser.
