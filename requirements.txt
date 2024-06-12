@@ -4,3 +4,16 @@ google.generativeai
 python-dotenv
 pyodbc
 mysql-connector-python
+
+pdfminer3
+pyresparser
+pandas
+pafy
+plotly
+pymysql
+streamlit-tags
+Pillow
+youtube-dl
+nltk
+pdfminer3
+spacy
